@@ -9,10 +9,10 @@
 Native SwiftUI. On-device Apple Intelligence. Nothing to configure.
 
 <p>
-  <a href="https://github.com/genericmilk/silver/releases/latest"><img src="https://img.shields.io/github/v/release/genericmilk/silver?style=flat-square&label=Download&color=0A84FF" alt="Download the latest release"></a>
-  <img src="https://img.shields.io/badge/macOS-26%2B-1d1d1f?style=flat-square&logo=apple&logoColor=white" alt="macOS 26 or later">
-  <img src="https://img.shields.io/badge/Swift-6-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift 6">
-  <img src="https://img.shields.io/badge/Universal-Apple%20silicon%20%26%20Intel-8E8E93?style=flat-square" alt="Universal binary">
+  <a href="https://github.com/genericmilk/silver/releases/latest"><img src="docs/badges/download.svg" alt="Download v1.0.0" height="20"></a>
+  <img src="docs/badges/macos.svg" alt="macOS 26 or later" height="20">
+  <img src="docs/badges/swift.svg" alt="Swift 6" height="20">
+  <img src="docs/badges/universal.svg" alt="Universal: Apple silicon and Intel" height="20">
 </p>
 
 <a href="https://github.com/genericmilk/silver/releases/latest"><b>Download Silver for Mac →</b></a>
