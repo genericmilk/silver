@@ -181,8 +181,3 @@ The tests use disposable local repositories and a local bare remote, so they nee
 
 </details>
 
-<br>
-
-<div align="center">
-<sub>Made for the Mac, with care.</sub>
-</div>
